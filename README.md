@@ -4,7 +4,7 @@ Numpy array functions
 NumPy Theory
 
 📝Creating Arrays
-Creating NumPy Array. np.Array()
+ - Creating NumPy Array. np.Array()
 Creating NumPy Array with Data Type
 Creating NumPy Array using np.Arange() and .reshape()
 np.ones and np.zeros
