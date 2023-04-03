@@ -30,4 +30,5 @@ Indexing Slicing
 Iteration on NumPy Array
 Reshaping - Transpose, Ravel
 Stacking - vstack, hstack
+
 Splitting - hsplit, vsplit
